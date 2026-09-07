@@ -1,5 +1,5 @@
-# STATISTICAL-ANALYSIS
-Analyzing the Influence of Physiochemical Properties on Wine Quality across Red and White Varieties.
+# Wine Quality Analysis
+This project investigates how physicochemical properties influence wine quality, comparing patterns across red and white wine varieties using statistical analysis in R.
 
 ## 📂 Files Included  
 - `Task_2.R` → Data cleaning and visualization  
